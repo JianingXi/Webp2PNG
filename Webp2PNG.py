@@ -21,5 +21,5 @@ def convert_webp_to_png(folder_path):
                 print(f"Failed to convert {filename}: {e}")
 
 # 将下面的路径替换为你的文件夹路径
-folder_path = r'C:\Desktop\test'
+folder_path = r'C:\Users\xijia\Desktop\互联网+\D20240703_陶瓷植入物图片'
 convert_webp_to_png(folder_path)
